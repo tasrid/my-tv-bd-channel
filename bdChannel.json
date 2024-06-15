@@ -1,0 +1,40 @@
+[
+    {
+      "name": "ATN Bangla",
+      "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png",
+      "link": "https://livess.ncare.live/live-orgin/atnbd-8-org.stream/chunks.m3u8"
+    },
+    {
+      "name": "RTV",
+      "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/RTV.png",
+      "link": "https://livess.ncare.live/live-orgin/rtv-sg.stream/chunks.m3u8"
+    },
+    {
+      "name": "Ekhone TV",
+      "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/DBC%20News.png",
+      "link": "https://livess.ncare.live/live-orgin/globaltv.stream/chunks.m3u8"
+    }
+    ,
+    {
+      "name": "Deepto TV",
+      "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Deepto%20TV.jpeg",
+      "link": "https://livess.ncare.live/live-orgin/deeptotv.stream/chunks.m3u8"
+    },
+    {
+      "name": "Bangla TV",
+      "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bangla%20TV.png",
+      "link": "https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8"
+    }
+    ,
+    {
+      "name": "Bangla TV Europe",
+      "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bangla%20TV.png",
+      "link": "https://byphdgllyk.gpcdn.net/hls/banglatveurope/index.m3u8"
+    },
+    {
+      "name": "Banglavision",
+      "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Banglavision.png",
+      "link": "https://livess.ncare.live/live-orgin/banglav000.stream/chunks.m3u8"
+    }
+   
+  ]
